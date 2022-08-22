@@ -18,7 +18,7 @@ Console.WriteLine($"Результат задачи - {metod}");*/
 
 //ЗАДАЧА 2 - Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет
 
-void ThirdDigit(int number)
+/*void ThirdDigit(int number)
 {
     string numberText = Convert.ToString(number);
 
@@ -31,4 +31,20 @@ void ThirdDigit(int number)
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-ThirdDigit(num);
+ThirdDigit(num);*/
+
+
+//ЗАДАЧА 3 - Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+void DayOfTheWeek(int number)
+{
+    if (number > 5)
+        Console.WriteLine($"Данный день {number} - выходной");
+    else
+        Console.WriteLine($"Данный день {number} - является рабочим");
+}
+
+Console.Write("Введите цифру дня недели (1-7): ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+DayOfTheWeek(num);
