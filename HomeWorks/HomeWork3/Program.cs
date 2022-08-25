@@ -33,7 +33,7 @@ Polindrom(number);*/
 
 // ------ВАРИАНТ 2------ Работает с любыми числами до 10 символов
 
-void Polindrom(int num)
+/*void Polindrom(int num)
 {
     string numberText = Convert.ToString(num);
     int length = numberText.Length;
@@ -59,5 +59,37 @@ void Polindrom(int num)
 
 Console.Write("Введите любое число: ");
 int number = Convert.ToInt32(Console.ReadLine());
+
+Polindrom(number);*/
+
+
+// ------ВАРИАНТ 3------ Работает с любыми числами
+
+void Polindrom(long num)
+{
+    string numberText = Convert.ToString(num);
+    long length = numberText.Length;
+    
+    long current = num;
+    long result = 0;
+    long i = Convert.ToInt64(Math.Pow(10, length));
+    
+    while (num > 0)
+    {
+        long a = num % 10;
+        num = num / 10;
+        result = result + a * (i / 10);
+        i = i / 10;
+    }
+        
+    if(current == result)
+        Console.WriteLine($"Число {current} - является палиндромом");
+    else
+        Console.WriteLine($"Число {current} - не является палиндромом");
+
+}
+
+Console.Write("Введите любое число: ");
+long number = Convert.ToInt64(Console.ReadLine());
 
 Polindrom(number);
