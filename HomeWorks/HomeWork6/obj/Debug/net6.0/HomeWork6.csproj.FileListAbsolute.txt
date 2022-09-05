@@ -1,0 +1,15 @@
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\bin\Debug\net6.0\HomeWork6.exe
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\bin\Debug\net6.0\HomeWork6.deps.json
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\bin\Debug\net6.0\HomeWork6.runtimeconfig.json
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\bin\Debug\net6.0\HomeWork6.dll
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\bin\Debug\net6.0\HomeWork6.pdb
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.csproj.AssemblyReference.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.GeneratedMSBuildEditorConfig.editorconfig
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.AssemblyInfoInputs.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.AssemblyInfo.cs
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.csproj.CoreCompileInputs.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.dll
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\refint\HomeWork6.dll
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.pdb
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\HomeWork6.genruntimeconfig.cache
+D:\БИЗНЕС\16 - GeekBrains - ИТ - ИНЖЕНЕР\Введение в программирование\Introduction C#\HomeWorks\HomeWork6\obj\Debug\net6.0\ref\HomeWork6.dll
