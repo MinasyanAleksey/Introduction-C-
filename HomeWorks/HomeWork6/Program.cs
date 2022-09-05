@@ -4,7 +4,7 @@
 
 // Задача 41: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
 
-int[] CreateMyArray(int size)
+/*int[] CreateMyArray(int size)
 {
     int[] newArray = new int[size];
     
@@ -37,4 +37,34 @@ int size = Convert.ToInt32(Console.ReadLine());
 int[] myArray = CreateMyArray(size);
 ShowArray(myArray);
 Console.WriteLine();
-ShowNumber(myArray);
+ShowNumber(myArray);*/
+
+
+// Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
+
+void FindPoint(double a, double c, double b, double d)
+{
+    // for(int i = 0; i < array.Length; i++)
+    //     Console.Write(array[i] + " ");
+    // Console.WriteLine();
+    double x = (d-c) / (a-b);
+    double y = a * x + c;
+    if(a == b)
+        Console.Write("Прямые параллельны");
+    else
+        Console.Write($"Точка пересечения двух прямых: x: {x}, y: {y}");
+}
+
+Console.Write("Введите значение k1: ");
+double k1 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите значение b1: ");
+double b1 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите значение k2: ");
+double k2 = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите значение b2: ");
+double b2 = Convert.ToInt32(Console.ReadLine());
+
+FindPoint(k1, b1, k2, b2);
