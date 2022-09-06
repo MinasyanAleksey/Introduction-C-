@@ -44,9 +44,6 @@ ShowNumber(myArray);*/
 
 void FindPoint(double a, double c, double b, double d)
 {
-    // for(int i = 0; i < array.Length; i++)
-    //     Console.Write(array[i] + " ");
-    // Console.WriteLine();
     double x = (d-c) / (a-b);
     double y = a * x + c;
     if(a == b)
